@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+<student><id>1</id><name>Jasper </name><course>BSIT</course><phone>09678201282</phone><address>Balagtas Bulacan</address></student><student><id>2</id><name>Alyana</name><course>BSIS</course><phone>09502032132</phone><address>Sta Maria Bulacan</address></student><student><id>3</id><name>Clart</name><course>BLIS</course><phone>09923214212</phone><address>Apalit Pampangga</address></student></students>
